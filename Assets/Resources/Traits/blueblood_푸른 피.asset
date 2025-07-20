@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a554b64e885d2c4b9d71882820abfd4, type: 3}
+  m_Name: "blueblood_\uD478\uB978 \uD53C"
+  m_EditorClassIdentifier: 
+  code: blueblood
+  tp: 2
+  traitName: "\uD478\uB978 \uD53C"
+  description: "\uADC0\uC871 \uAC00\uBB38\uC758 \uD53C\uB97C \uC774\uC740 \uACE0\uADC0\uD55C
+    \uD608\uD1B5"
+  morality: 0
+  order: 2
+  effects:
+  - effectName: "\uADFC\uB825"
+    value: 1
+  - effectName: "\uCCB4\uB825"
+    value: 1

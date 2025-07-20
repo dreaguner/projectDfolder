@@ -1,0 +1,14 @@
+stid,stname,steffect,steffectma,stpre
+sta,체력,hp,10,-
+mana,마나,mp,10,-
+str,근력,atk,1,-
+agi,민첩,-,-,-
+magic,마력,matk,2,holy
+dur,내구,add,1,dia
+dia,금강,add,1,-
+dia,금강,apd,1,-
+holy,신성,holy,5,-
+,인지,,,
+,감각,,,
+,육감,,,
+,직감,,,

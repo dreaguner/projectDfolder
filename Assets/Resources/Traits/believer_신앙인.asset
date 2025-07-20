@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a554b64e885d2c4b9d71882820abfd4, type: 3}
+  m_Name: "believer_\uC2E0\uC559\uC778"
+  m_EditorClassIdentifier: 
+  code: believer
+  tp: 2
+  traitName: "\uC2E0\uC559\uC778"
+  description: "\uC774 \uD0D1\uC5D0\uC11C \uB204\uAD74 \uBBFF\uB294\uB2E8 \uB9D0\uC774\uB0D0?
+    \uC5B4\uB9AC\uC11D\uC740 \uC790"
+  morality: 2
+  order: 5
+  effects:
+  - effectName: "\uCCB4\uB825"
+    value: 1
+  - effectName: "\uB9C8\uB098"
+    value: 2

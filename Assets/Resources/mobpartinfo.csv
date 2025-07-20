@@ -1,0 +1,8 @@
+mobid,part,mtm,mtid,add,apd,parthp,breakeffectma,breakeffect,parteva,dc,ddt
+orkslave,팔,질긴피부,1,3,3,10,50%,damage,10,delayed,2
+orkslave,팔,질긴피부,1,3,3,10,2,death,10,delayed,2
+orkslave,다리,질긴피부,1,3,3,10,50%,agi,10,delayed,2
+orkslave,다리,질긴피부,1,3,3,10,2,death,10,delayed,2
+orkslave,머리,질긴피부,1,1,1,5,0,death,50,instant,-
+orkslave,심장,질긴피부,1,1,1,5,0,death,50,instant,-
+orkleader,심장,질긴피부,1,5,5,10,0,death,50,instant,-

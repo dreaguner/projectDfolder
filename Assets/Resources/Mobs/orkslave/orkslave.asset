@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bef8a72274d91ae4c871c2a09dc798a1, type: 3}
+  m_Name: orkslave
+  m_EditorClassIdentifier: 
+  mobId: orkslave
+  mobName: "\uC57C\uC708 \uC624\uD06C"
+  level: 5
+  type: "\uC544\uC778\uC885"
+  spd: 6
+  atk: 6
+  matk: 6
+  skillIds: []
+  mobSkills: []
+  turnInfo:
+    baseAgi: 0
+    agiBuffs: []
+    partMultiplier: 0
+    turnSpeed: 0
+    turnGauge: 0
+  mobParts:
+  - {fileID: 11400000, guid: acee3eec7ebd38b47adce2e2fb23607d, type: 2}
+  - {fileID: 11400000, guid: afead0f676af61d4c90657aa4308324a, type: 2}
+  - {fileID: 11400000, guid: 33ce901c58f215e419729f334fb650b1, type: 2}
+  - {fileID: 11400000, guid: bf489659407c6684c8c8322cb3f8bd53, type: 2}

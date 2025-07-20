@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a554b64e885d2c4b9d71882820abfd4, type: 3}
+  m_Name: "novicemurderer_\uC5B4\uC124\uD508 \uC0B4\uC778\uC790"
+  m_EditorClassIdentifier: 
+  code: novicemurderer
+  tp: -1
+  traitName: "\uC5B4\uC124\uD508 \uC0B4\uC778\uC790"
+  description: "\uC790\uC2E0\uC758 \uC8C4\uC5D0 \uBAB8\uBD80\uB9AC\uCE58\uB294 \uC5B4\uB9AC\uC11D\uC740
+    \uC790. \uD558\uC9C0\uB9CC \uC774 \uD0D1\uC5D0\uC11C\uB294 \uB2E4\uB974\uACA0\uC9C0"
+  morality: -2
+  order: -5
+  effects:
+  - effectName: "\uADFC\uB825"
+    value: 1
+  - effectName: "\uCCB4\uB825"
+    value: -1
+  - effectName: "\uB9C8\uB098"
+    value: -1

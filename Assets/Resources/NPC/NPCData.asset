@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: beaef73b93dee0a4ba5b3be212f04cca, type: 3}
+  m_Name: NPCData
+  m_EditorClassIdentifier: 
+  npcId: 
+  npcName: 
+  morality: 0
+  order: 0
+  recruitMoralityMin: 0
+  recruitMoralityMax: 0
+  recruitOrderMin: 0
+  recruitOrderMax: 0
+  specialConditions: []
+  maxHP: 0
+  finalAttack: 0
+  finalMagicAttack: 0
+  finalPhysicalDefense: 0
+  finalMagicDefense: 0
+  dex: 0
+  accuracy: 0
+  evasion: 0
+  criticalChance: 0
+  skillIds: []
+  equippedWeapon: {fileID: 0}
+  equippedArmors:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  equippedAccessories:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  isRecruitable: 0
+  isEnemy: 0

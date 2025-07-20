@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 767916fea3907e843ad6a363e4c45db9, type: 3}
+  m_Name: StatEffect
+  m_EditorClassIdentifier: 
+  stats:
+  - statId: sta
+    statName: "\uCCB4\uB825"
+    effectType: hp
+    effectValue: 10
+    effectPrecondition: '-'
+  - statId: mana
+    statName: "\uB9C8\uB098"
+    effectType: mp
+    effectValue: 10
+    effectPrecondition: '-'
+  - statId: str
+    statName: "\uADFC\uB825"
+    effectType: atk
+    effectValue: 1
+    effectPrecondition: '-'
+  - statId: agi
+    statName: "\uBBFC\uCCA9"
+    effectType: '-'
+    effectValue: 0
+    effectPrecondition: '-'
+  - statId: magic
+    statName: "\uB9C8\uB825"
+    effectType: matk
+    effectValue: 2
+    effectPrecondition: holy
+  - statId: dur
+    statName: "\uB0B4\uAD6C"
+    effectType: add
+    effectValue: 1
+    effectPrecondition: dia
+  - statId: dia
+    statName: "\uAE08\uAC15"
+    effectType: add
+    effectValue: 1
+    effectPrecondition: '-'
+  - statId: dia
+    statName: "\uAE08\uAC15"
+    effectType: apd
+    effectValue: 1
+    effectPrecondition: '-'
+  - statId: holy
+    statName: "\uC2E0\uC131"
+    effectType: holy
+    effectValue: 5
+    effectPrecondition: '-'
+  - statId: 
+    statName: "\uC778\uC9C0"
+    effectType: 
+    effectValue: 0
+    effectPrecondition: 
+  - statId: 
+    statName: "\uAC10\uAC01"
+    effectType: 
+    effectValue: 0
+    effectPrecondition: 
+  - statId: 
+    statName: "\uC721\uAC10"
+    effectType: 
+    effectValue: 0
+    effectPrecondition: 
+  - statId: 
+    statName: "\uC9C1\uAC10"
+    effectType: 
+    effectValue: 0
+    effectPrecondition: 

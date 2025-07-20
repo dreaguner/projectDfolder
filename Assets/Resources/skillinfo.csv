@@ -1,0 +1,4 @@
+skiid,skilname,skitype,skides,skieffect,skicosttype,skicost,skieffectpre,skieffectst,skieffetma,skilrank,skilmaxlevel,skilevopre
+1,검의 재능,passive,검의 재능,atk up,-,-,sword,skilevel,5%,C,10,2
+2,신검합일,passive,경지에 이른 검사,atk up,-,-,sword,skilevel,15%,S,10,없음
+3,베기,active,힘을 담은 참격,damage,mp,5,sword,str,150%,C,20,3
